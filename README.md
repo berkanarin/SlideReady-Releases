@@ -12,7 +12,7 @@ Close PowerPoint, open the installer, and select **Install**. Installation is pe
 
 **Not digitally signed.** Windows may display a security warning or block installation. Do not disable your security protections. Consult your IT team on managed computers.
 
-[Release notes](https://github.com/berkanarin/SlideReady-Releases/releases/latest) · [Website download](https://berkanarin.com/slideready/#kurulum) · [Installation guide](https://berkanarin.com/slideready/guide/?lang=en#kurulum)
+[Release notes](https://github.com/berkanarin/SlideReady-Releases/releases/latest) · [Website download](https://slideready.net/#kurulum) · [Installation guide](https://slideready.net/guide/?lang=en#kurulum)
 
 <details>
 <summary>Türkçe</summary>
