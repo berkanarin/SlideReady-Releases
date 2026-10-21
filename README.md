@@ -8,7 +8,7 @@ Free tools for desktop PowerPoint on Windows.
 
 Windows 10/11 · Desktop PowerPoint · English / Türkçe
 
-SlideReady Kinetic turns a slide into a high-quality offline video: native 4K / 30 FPS for 16:9 slides, with the editable source preserved. Higher resolution can increase rendering time and presentation size.
+SlideReady Kinetic turns a slide into a high-quality offline video: it recognizes titles, lists, KPIs, charts, icons and process steps and animates each with a professional motion-graphics language, at native 4K / 30 FPS for 16:9 slides, with the editable source preserved.
 
 Close PowerPoint, open the installer, and select **Install**. Installation is per-user and offline; it does not request administrator access. Company security policies still apply.
 
@@ -21,7 +21,7 @@ Close PowerPoint, open the installer, and select **Install**. Installation is pe
 
 **[Windows için SlideReady indir](https://github.com/berkanarin/SlideReady-Releases/releases/latest/download/SlideReady-Setup.exe)**
 
-SlideReady Kinetic, düzenlenebilir kaynak slaydı koruyarak yüksek kaliteli çevrimdışı video üretir: 16:9 slaytlarda gerçek 4K / 30 FPS. Yüksek çözünürlük üretim süresini ve sunum boyutunu artırabilir.
+SlideReady Kinetic, düzenlenebilir kaynak slaydı koruyarak yüksek kaliteli çevrimdışı video üretir: başlık, liste, KPI, grafik, ikon ve süreç adımlarını tanıyıp her birine profesyonel motion graphics diliyle hareket verir; 16:9 slaytlarda gerçek 4K / 30 FPS.
 
 PowerPoint'i kapatın, kurulum dosyasını açın ve **Kur** seçeneğine tıklayın. Kurulum kullanıcı hesabınıza yapılır; yönetici yetkisi istemez ve internetten ek dosya indirmez.
 
