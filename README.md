@@ -4,6 +4,8 @@
 
 Free tools for desktop PowerPoint on Windows.
 
+Number Animation creates transparent, one-shot GIFs with Smooth Count or Rolling Digits, your font, colors and prefix/suffix text. No AI or separate software installation is required.
+
 ## [Download SlideReady for Windows](https://github.com/berkanarin/SlideReady-Releases/releases/latest/download/SlideReady-Setup.exe)
 
 Windows 10/11 · Desktop PowerPoint · English / Türkçe
@@ -18,6 +20,8 @@ Close PowerPoint, open the installer, and select **Install**. Installation is pe
 
 <details>
 <summary>Türkçe</summary>
+
+Sayı Animasyonu; Akıcı Sayım veya Kayan Rakamlar, font, renk ve ön/son ek seçenekleriyle şeffaf, tek sefer oynayan GIF üretir. Yapay zekâ veya ayrı program kurulumu gerekmez.
 
 **[Windows için SlideReady indir](https://github.com/berkanarin/SlideReady-Releases/releases/latest/download/SlideReady-Setup.exe)**
 
