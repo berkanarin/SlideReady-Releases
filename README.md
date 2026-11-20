@@ -4,6 +4,8 @@
 
 Free tools for desktop PowerPoint on Windows.
 
+The icon library opens on the original SlideReady collection. Select MDI to browse 7,447 offline icons with English/Turkish keyword search and categories; insert SVG graphics without installing a font.
+
 Number Animation creates transparent, one-shot GIFs with Smooth Count or Rolling Digits, your font, colors and prefix/suffix text. No AI or separate software installation is required.
 
 ## [Download SlideReady for Windows](https://github.com/berkanarin/SlideReady-Releases/releases/latest/download/SlideReady-Setup.exe)
@@ -20,6 +22,8 @@ Close PowerPoint, open the installer, and select **Install**. Installation is pe
 
 <details>
 <summary>Türkçe</summary>
+
+İkon kitaplığı varsayılan olarak SlideReady koleksiyonuyla açılır. MDI sekmesinde 7.447 çevrimdışı ikon, Türkçe/İngilizce kelime araması ve kategoriler bulunur. İkonlar font kurulumu gerekmeden SVG olarak eklenir.
 
 Sayı Animasyonu; Akıcı Sayım veya Kayan Rakamlar, font, renk ve ön/son ek seçenekleriyle şeffaf, tek sefer oynayan GIF üretir. Yapay zekâ veya ayrı program kurulumu gerekmez.
 
